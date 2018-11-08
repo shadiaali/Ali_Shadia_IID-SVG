@@ -1,5 +1,5 @@
 # Infographic
-An infographic on types of millennials, which pulls data from an SQL database and is animated with Greensock.
+An infographic on types of millennials, which pulls data from an SQL database and is animated with WOWjs and Animate.css.
 
 
  ## Deployment on your local machine (MAC)
@@ -7,7 +7,7 @@ An infographic on types of millennials, which pulls data from an SQL database an
   ```
 in your applications, navigate to MAMP > htdocs
 
-git clone https://github.com/smalfoy/Ali_Shadia_IID-SVG.git 
+$ git clone https://github.com/smalfoy/Ali_Shadia_IID-SVG.git 
 
 start MAMP server
  
@@ -21,13 +21,19 @@ point your browser at http://localhost:8888/infographic/
 
  ```
  
-And you’re done!
+You may now see the clouds.
 
 
 ## Built With
-* [CSS Grid](https://cssreference.io/css-grid/)
-* [Greensock](https://greensock.com/) - Used for animation
+* [ZURB Foundation](https://foundation.zurb.com/sites.html)
+* [WOWjs](https://mynameismatthieu.com/WOW/)
+* [Animate.css](https://daneden.github.io/animate.css/)
+* [CSS Animations] (https://www.w3schools.com/css/css3_animations.asp)
 * [MAMP/phpMyAdmin](https://www.mamp.info/en/)
 
  ## Authors
 Shadia Ali
+
+
+ ## Acknowledgements 
+* [Abacus Data - Meet the Millennials] (http://canadianmillennials.ca/about/millennials/)
