@@ -36,4 +36,4 @@ Shadia Ali
 
 
  ## Acknowledgements 
-* [Abacus Data - Meet the Millennials] (http://canadianmillennials.ca/about/millennials/)
+* [Abacus Data] (http://canadianmillennials.ca/about/millennials/)
