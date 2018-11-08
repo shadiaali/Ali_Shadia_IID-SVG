@@ -12,14 +12,8 @@ in your applications, navigate to MAMP > htdocs
 $ git clone https://github.com/smalfoy/Ali_Shadia_IID-SVG.git 
 
 start MAMP server
- 
-point your browser to http://localhost:8888/phpMyAdmin/ 
 
-create a new database called 'info'
-
-import the db that came with the infographic into the newly created database
-
-point your browser at http://localhost:8888/infographic/ 
+point your browser at http://localhost:8888/Ali_Shadia_IID-SVG
 
  ```
  
