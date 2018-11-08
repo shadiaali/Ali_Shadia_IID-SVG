@@ -28,7 +28,7 @@ You may now see the clouds.
 * [ZURB Foundation](https://foundation.zurb.com/sites.html)
 * [WOWjs](https://mynameismatthieu.com/WOW/)
 * [Animate.css](https://daneden.github.io/animate.css/)
-* [CSS Animations] (https://www.w3schools.com/css/css3_animations.asp)
+* [CSS Animations](https://www.w3schools.com/css/css3_animations.asp)
 * [MAMP/phpMyAdmin](https://www.mamp.info/en/)
 
  ## Authors
@@ -36,4 +36,4 @@ Shadia Ali
 
 
  ## Acknowledgements 
-* [Abacus Data] (http://canadianmillennials.ca/about/millennials/)
+* [Abacus Data](http://canadianmillennials.ca/about/millennials/)
