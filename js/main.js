@@ -27,5 +27,6 @@
 }
 	window.addEventListener("load", function(event) {
 		getData();
+		 new WOW().init();
 	}); //trigger the getdata function
-	})();
+})();

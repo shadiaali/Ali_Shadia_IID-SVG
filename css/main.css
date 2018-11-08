@@ -1,1 +1,69 @@
   .st0{fill:#02b8e9}.st1{fill:#fce400}.st3{fill:#5a575c}.st5{fill:#5e3c8d}.st7{fill:#333331}.st9{fill:#fff}.st10{fill:#efefa3}.st11{fill:#fef6ad}.st12{fill:#fdf169;stroke:#fff;stroke-width:.25;stroke-miterlimit:10}.st13{font-family:&apos;Roboto-Black&apos;}.st14{font-size:23px}.st15{fill:none}.st16,.st17{fill-rule:evenodd;clip-rule:evenodd;fill:#bf9cc9}.st17{fill:#bc7eb6}.st19{fill:#42a390}.st21{fill:#3c3b3a}.st22{fill:#9f1e29}.st23,.st24{fill-rule:evenodd;clip-rule:evenodd;fill:#9dd3d0}.st24{fill:#7cc1c6}.st26{fill:#a9c265}.st28{fill:#474647}.st30,.st31{fill-rule:evenodd;clip-rule:evenodd;fill:#9cc67b}.st31{fill:#9dd3a8}.st33{fill:#f1ae70}.st35{fill:#565758}.st36{fill:#8b5e3c}.st37,.st38{fill-rule:evenodd;clip-rule:evenodd;fill:#e5a245}.st38{fill:#c56d29}.st41{fill:#cf6ea8}.st43{fill:#4a4c4b}.st44{fill:#f7ed45}.st46{fill:#b7486a}.st48{fill:#414342}.st50,.st51{fill-rule:evenodd;clip-rule:evenodd;fill:#e34368}.st51{fill:#c42741}
+
+  .wow {
+     visibility: hidden;
+  }
+
+
+
+
+  #cloud
+  {
+  	width:100vh;
+  	overflow:hidden;
+  }
+
+  .cloud1
+  {
+  	animation-name: float;
+  	animation-duration: 20s;
+  	animation-timing-function:linear;
+  	animation-iteration-count: infinite;
+  	animation-fill-mode:forwards;
+  	animation-direction:alternate-reverse;
+  	top:50%;
+  	position:absolute;
+  	opacity: 0.5;
+    z-index:-50;
+    height:90vh;
+
+  }
+  .cloud2
+  {
+  	animation-name: float;
+  	animation-duration: 30s;
+  	animation-timing-function:linear;
+  	animation-iteration-count: infinite;
+  	animation-fill-mode:backwards;
+  	animation-direction: alternate;
+  	position:absolute;
+  	top:10%;
+  	opacity: 0.5;
+    z-index:-50;
+    height:70vh;
+
+
+
+  }
+
+  .cloud3
+  {
+  	animation-name: float;
+  	animation-duration: 45s;
+  	animation-timing-function:linear;
+  	animation-iteration-count: infinite;
+  	animation-fill-mode:backwards;
+  	animation-direction: alternate-reverse;
+  	position:absolute;
+  	top:90%;
+  	opacity: 0.5;
+    z-index:-50;
+    height:50vh;
+
+  }
+
+  @keyframes float
+  {
+  	to {transform: translateX(-10px);}
+  	from {transform:translateX(500px);}
+  }
