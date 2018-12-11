@@ -1,4 +1,4 @@
-![Titleimg](https://image.ibb.co/dmSffA/Screen-Shot-2018-11-07-at-11-25-03-PM.png)
+![Titleimg](https://camo.githubusercontent.com/32b9c53d9633c4f44ee43c08f75c98d8434134af/68747470733a2f2f696d6167652e6962622e636f2f646d536666412f53637265656e2d53686f742d323031382d31312d30372d61742d31312d32352d30332d504d2e706e67)
 
 # Infographic
 An infographic on types of millennials, which pulls data from an SQL database and is animated with WOWjs and Animate.css.
